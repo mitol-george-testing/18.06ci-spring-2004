@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c120c0ab-b842-9c0e-c470-669a58c686fa",
+      "b1d18d7c-5542-a636-8e45-f61160ab4f60"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Linear Algebra - Communications Intensive",
+  "course_description": "This is a communication intensive supplement to Linear Algebra ([18.06](courses/18-06-linear-algebra-spring-2005)). The main emphasis is on the methods of creating rigorous and elegant proofs and presenting them clearly in writing. The course starts with the standard linear algebra syllabus and eventually develops the techniques to approach a more advanced topic: abstract root systems in a Euclidean space.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.06CI",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
